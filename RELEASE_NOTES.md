@@ -1,5 +1,25 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.3.9](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.9)
+
+March 24, 2026
+
+### Removals
+
+- `css.properties.-webkit-margin-after` ([#29322](https://github.com/mdn/browser-compat-data/pull/29322))
+- `css.properties.-webkit-margin-before` ([#29322](https://github.com/mdn/browser-compat-data/pull/29322))
+
+### Additions
+
+- `css.properties.shape-outside.xywh` ([#29284](https://github.com/mdn/browser-compat-data/pull/29284))
+
+### Statistics
+
+- 4 contributors have changed 16 files with 184 additions and 192 deletions in 6 commits ([`v7.3.8...v7.3.9`](https://github.com/mdn/browser-compat-data/compare/v7.3.8...v7.3.9))
+- 19,509 total features
+- 1,236 total contributors
+- 5,619 total stargazers
+
 ## [v7.3.8](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.8)
 
 March 20, 2026
